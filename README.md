@@ -4,7 +4,7 @@ This repository aims to put into practice the knowledge obtained in Power BI tra
 
 The link with the dataset can be found [here](https://www.kaggle.com/datasets/ivannatarov/spotify-daily-top-200-songs-with-genres-20172021) or you can download the file `data.csv` in this repository.
 
-The link with the complete dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiZmY5YjA4YjUtODg4MC00MGIxLWJjZTEtMmVkZTg5ODhlYjg4IiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9)
+The link with the complete dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiZmY5YjA4YjUtODg4MC00MGIxLWJjZTEtMmVkZTg5ODhlYjg4IiwidCI6ImRjYmYyYTFmLTk1MzItNGQ1Ni1hYzQxLTU2MTVlMzhlNTBiNyJ9).
 
 ## About the database
 
