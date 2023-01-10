@@ -1,6 +1,6 @@
 # Data analysis - Spotify
 
-This repository aims to put into practice the knowledge obtained in Power BI training on the [Alura](https://www.alura.com.br/) platform. In this way, a [Kaggle](https://www.kaggle.com/) database was used with data referring to the top 200 on spotify between the years 2017 and 2021 to create a dashboard with several metrics referring to these songs and artists. 
+This repository aims to put into practice the knowledge obtained in Power BI training on the [Alura](https://www.alura.com.br/) platform. In this way, a [Kaggle](https://www.kaggle.com/) database was used with data referring to the top 200 on spotify between the years 2017 and 2021 to create a dashboard with several metrics referring to these songs and artists. Also, icons made by [Flaticon](https://www.flaticon.com/s) were used to create the dashboard.
 
 The link with the dataset can be found [here](https://www.kaggle.com/datasets/ivannatarov/spotify-daily-top-200-songs-with-genres-20172021) or you can download the file `data.csv` in this repository.
 
@@ -14,4 +14,8 @@ Position   | Track Name                             |Artist           |Streams|D
 2          | Closer                                 |The Chainsmokers |3015525|2017-01-01|['pop', 'pop dance', 'tropical house', 'edm', 'electropop', 'dance pop']
 3          | Let me love you                        |DJ Snake         |2545384|2017-01-01|['pop', 'electronic trap', 'dance pop', 'edm', 'pop dance', 'pop rap']
 4          | Rockabye (feat. Sean Paul & Anne-Marie |Clean Bandit     |3256604|2017-01-01|['pop', 'uk dance', 'dance pop', 'uk funky', 'tropical house', 'pop dance', 'post-teen pop', 'edm']
+
+After that, the database was treated by separating the musical genres into a new table, with the respective name of each artist, and creating a many-to-many relationship between these tables.
+
+## The dashboard
 
